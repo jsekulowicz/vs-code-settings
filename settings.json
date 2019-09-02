@@ -1,0 +1,14 @@
+{
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.minimap.enabled": false,
+    "editor.cursorBlinking": "solid",
+    "editor.snippetSuggestions": "top",
+    "editor.scrollBeyondLastLine": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "javascript.preferences.quoteStyle": "single",
+    "sync.gist": "2198c95f8916222671ab7b3b782bdf3f"
+}
